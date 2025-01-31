@@ -1,4 +1,4 @@
-/commandAdmin
+node_modules/
+/commandAdmin/
 /scenes/addServices.js
 /hears/one.hears.js
-/node_modules
